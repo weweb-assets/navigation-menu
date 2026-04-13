@@ -399,11 +399,11 @@ export default {
         }
     }
 }
-.navigation-menu__items.-pushLast::last-child {
+.navigation-menu__items.-pushLast:last-child {
     margin-left: auto !important;
 }
 
-.navigation-menu__panel-items.-pushLast::last-child {
+.navigation-menu__panel-items.-pushLast:last-child {
     margin-top: auto !important;
 }
 </style>
