@@ -103,7 +103,7 @@ export default {
             type: 'TextRadioGroup',
             options: {
                 choices: [
-                    { value: 'laptop', title: { en: 'Laptop' }, icon: 'laptop' },
+                    { value: 'laptop', title: { en: 'Laptop' }, icon: 'monitor' },
                     { value: 'tablet', title: { en: 'Tablet' }, icon: 'tablet' },
                     { value: 'mobile', title: { en: 'Mobile' }, icon: 'mobile' },
                 ],
