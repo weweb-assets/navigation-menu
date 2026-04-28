@@ -103,9 +103,9 @@ export default {
             type: 'TextRadioGroup',
             options: {
                 choices: [
-                    { value: 'laptop', title: { en: 'Laptop' }, icon: 'monitor' },
-                    { value: 'tablet', title: { en: 'Tablet' }, icon: 'tablet' },
-                    { value: 'mobile', title: { en: 'Mobile' }, icon: 'mobile' },
+                    { value: '16/desktop', title: { en: 'Laptop' }, icon: 'monitor' },
+                    { value: '16/tablet', title: { en: 'Tablet' }, icon: 'tablet' },
+                    { value: '16/mobile', title: { en: 'Mobile' }, icon: 'mobile' },
                 ],
             },
             section: 'settings',
